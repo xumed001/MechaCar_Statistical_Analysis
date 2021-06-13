@@ -20,17 +20,20 @@ t-tests to determine if all manufacturing lots and each lot individually are sta
 
 - ### lot 1
   Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
-  <img src="Resources/lot1.png" width="500"> 
+  
+  <img src="Resources/lot1.png" width="400"> 
 
 
 - ### lot 2
   Assuming our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
-  <img src="Resources/lot2.png" width="500"> 
+  
+  <img src="Resources/lot2.png" width="400"> 
 
 
 - ### lot 3
   Assuming our significance level was the common 0.05 percent, our p-value is below our significance level. Therefore, we have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically different.
-  <img src="Resources/lot3.png" width="500"> 
+  
+  <img src="Resources/lot3.png" width="400"> 
   
   
 ## Study Design: MechaCar vs Competition
